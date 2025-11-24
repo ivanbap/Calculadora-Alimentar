@@ -24,6 +24,14 @@
     "categoria": "carbo"
   },
   {
+    "alimento": "Abóbora cabotiá, crua",
+    "kcal": "39",
+    "carbo": "8.4",
+    "prot": "1.7",
+    "gord": "0.5",
+    "categoria": "carbo"
+  },
+  {
     "alimento": "Abobrinha italiana, cozida",
     "kcal": "15",
     "carbo": "3.3",
@@ -228,6 +236,14 @@
     "kcal": "52",
     "carbo": "11.9",
     "prot": "1.2",
+    "gord": "0.1",
+    "categoria": "carbo"
+  },
+  {
+    "alimento": "Batata inglesa crua",
+    "kcal": "64",
+    "carbo": "14.7",
+    "prot": "1.8",
     "gord": "0.1",
     "categoria": "carbo"
   },
@@ -918,12 +934,28 @@
     "categoria": "carbo"
   },
   {
+    "alimento": "Milho para pipoca Yoki",
+    "kcal": "312",
+    "carbo": "68",
+    "prot": "9.2",
+    "gord": "4",
+    "categoria": "carbo"
+  },
+  {
     "alimento": "Milho verde, enlatado",
     "kcal": "98",
     "carbo": "17.1",
     "prot": "3.2",
     "gord": "1.3",
     "categoria": "carbo"
+  },
+  {
+    "alimento": "Miolo de alcatra sem gordura cru",
+    "kcal": "163",
+    "carbo": "0",
+    "prot": "21.6",
+    "gord": "7.8",
+    "categoria": "proteina"
   },
   {
     "alimento": "Morango, cru",
@@ -1023,6 +1055,14 @@
     "prot": "8.8",
     "gord": "3.3",
     "categoria": "carbo"
+  },
+  {
+    "alimento": "Patinho sem gordura, cru",
+    "kcal": "133",
+    "carbo": "0",
+    "prot": "21.7",
+    "gord": "4.5",
+    "categoria": "proteina"
   },
   {
     "alimento": "Peito de frango desfiado",
